@@ -431,3 +431,146 @@
 07/08/21 12:15:49 PM: INFO: ******************* Providing customer info ********************
 07/08/21 12:16:02 PM: INFO: *************** test_login started ****************
 07/08/21 12:16:16 PM: INFO: *************** test_login passed ****************
+12/08/21 07:18:51 PM: INFO: ******************* Test_003_AddCustomer ********************
+12/08/21 07:19:20 PM: INFO: ******************* Trying to login ********************
+12/08/21 07:19:40 PM: INFO: ******************* Login successful ********************
+12/08/21 07:19:40 PM: INFO: ******************* Starting test_addCustomer ********************
+12/08/21 07:19:54 PM: INFO: ******************* Providing customer info ********************
+12/08/21 07:20:03 PM: INFO: ****************** Saving customer info  ******************
+12/08/21 07:20:03 PM: INFO: ****************** Add customer validation started ******************
+12/08/21 07:20:04 PM: INFO: ******************* test_addCustomer passed ********************
+12/08/21 07:20:05 PM: INFO: ******************* End of Test_003_AddCustomer ********************
+12/08/21 07:20:10 PM: INFO: *************** Test_001_Login started ****************
+12/08/21 07:20:10 PM: INFO: *************** test_loginPageTitle started ****************
+12/08/21 07:21:39 PM: INFO: *************** test_login started ****************
+12/08/21 07:21:58 PM: INFO: *************** test_login passed ****************
+12/08/21 07:22:01 PM: INFO: *************** Test_002_DDT_Login started ****************
+12/08/21 07:22:01 PM: INFO: *************** test_login started ****************
+12/08/21 07:22:20 PM: INFO: *************** Passed ****************
+12/08/21 07:22:29 PM: INFO: *************** Passed ****************
+12/08/21 07:22:37 PM: INFO: *************** Passed ****************
+12/08/21 07:22:44 PM: INFO: *************** Passed ****************
+12/08/21 07:22:44 PM: INFO: *************** test_login__ddt Passed ****************
+12/08/21 07:22:44 PM: INFO: *************** Test_002_DDT_Login Passed ****************
+12/08/21 07:22:44 PM: INFO: *************** Test_002_DDT_Login Completed ****************
+12/08/21 07:22:48 PM: INFO: ******************* Test_004_SearchCustomerByEmail ********************
+12/08/21 07:22:50 PM: INFO: ******************* Trying to login ********************
+12/08/21 07:23:00 PM: INFO: ******************* Login successful ********************
+12/08/21 07:23:00 PM: INFO: ******************* Starting test_searchCustomerByEmail ********************
+12/08/21 07:23:10 PM: INFO: ******************* Searching customer by email ********************
+12/08/21 07:23:17 PM: INFO: ******************* End of Test_004_SearchCustomerByEmail ********************
+12/08/21 07:23:22 PM: INFO: ******************* Test_005_SearchCustomerByName ********************
+12/08/21 07:23:25 PM: INFO: ******************* Trying to login ********************
+12/08/21 07:23:30 PM: INFO: ******************* Login successful ********************
+12/08/21 07:23:30 PM: INFO: ******************* Starting test_searchCustomerByName ********************
+18/08/21 07:44:45 PM: INFO: *************** Test_001_Login started ****************
+18/08/21 07:44:45 PM: INFO: *************** test_loginPageTitle started ****************
+18/08/21 07:44:49 PM: INFO: *************** test_loginPageTitle passed ****************
+18/08/21 07:44:52 PM: INFO: *************** test_login started ****************
+18/08/21 07:45:07 PM: INFO: *************** test_login passed ****************
+18/08/21 07:50:35 PM: INFO: 
+
+18/08/21 07:50:35 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:50:36 PM: INFO: Current google-chrome version is 92.0.4515
+18/08/21 07:50:36 PM: INFO: Get LATEST driver version for 92.0.4515
+18/08/21 07:50:37 PM: INFO: Get LATEST driver version for 92.0.4515
+18/08/21 07:50:37 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+18/08/21 07:50:43 PM: INFO: Driver has been saved in cache [C:\Users\kjoshi31\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+18/08/21 07:50:52 PM: INFO: *************** Test_001_Login started ****************
+18/08/21 07:50:52 PM: INFO: *************** test_loginPageTitle started ****************
+18/08/21 07:50:57 PM: INFO: *************** test_loginPageTitle passed ****************
+18/08/21 07:50:57 PM: INFO: 
+
+18/08/21 07:50:57 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:50:57 PM: INFO: Current google-chrome version is 92.0.4515
+18/08/21 07:50:57 PM: INFO: Get LATEST driver version for 92.0.4515
+18/08/21 07:50:57 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+18/08/21 07:51:01 PM: INFO: *************** test_login started ****************
+18/08/21 07:51:16 PM: INFO: *************** test_login passed ****************
+18/08/21 07:52:20 PM: INFO: 
+
+18/08/21 07:52:20 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:52:25 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:52:25 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:52:26 PM: INFO: There is no [win64] geckodriver for browser 90.0.2 in cache
+18/08/21 07:52:26 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:52:27 PM: INFO: Getting latest mozilla release info for v0.29.1
+18/08/21 07:52:27 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:52:28 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:52:28 PM: INFO: Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-win64.zip
+18/08/21 07:52:31 PM: INFO: Driver has been saved in cache [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1]
+18/08/21 07:52:31 PM: INFO: 
+
+18/08/21 07:52:31 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:52:34 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:52:34 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:52:35 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+18/08/21 07:53:18 PM: INFO: 
+
+18/08/21 07:53:18 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:53:21 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:53:21 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:53:21 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+18/08/21 07:53:22 PM: INFO: 
+
+18/08/21 07:53:22 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:53:24 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:53:24 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:53:25 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+18/08/21 07:55:26 PM: INFO: 
+
+18/08/21 07:55:26 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:55:29 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:55:29 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:55:29 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+18/08/21 07:55:45 PM: INFO: *************** Test_001_Login started ****************
+18/08/21 07:55:45 PM: INFO: *************** test_loginPageTitle started ****************
+18/08/21 07:55:50 PM: INFO: *************** test_loginPageTitle passed ****************
+18/08/21 07:55:50 PM: INFO: 
+
+18/08/21 07:55:50 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:55:54 PM: INFO: Current firefox version is 90.0.2
+18/08/21 07:55:54 PM: INFO: Get LATEST driver version for 90.0.2
+18/08/21 07:55:54 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\geckodriver\win64\v0.29.1\geckodriver.exe] found in cache
+18/08/21 07:56:07 PM: INFO: *************** test_login started ****************
+18/08/21 07:56:25 PM: INFO: *************** test_login passed ****************
+18/08/21 07:59:20 PM: INFO: 
+
+18/08/21 07:59:20 PM: INFO: ====== WebDriver manager ======
+18/08/21 07:59:32 PM: INFO: 
+
+18/08/21 07:59:32 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:04:20 PM: INFO: 
+
+18/08/21 08:04:20 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:04:24 PM: INFO: There is no [x64] IEDriverServer for browser  in cache
+18/08/21 08:04:27 PM: INFO: 
+
+18/08/21 08:04:27 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:04:28 PM: INFO: There is no [x64] IEDriverServer for browser  in cache
+18/08/21 08:09:22 PM: INFO: 
+
+18/08/21 08:09:22 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:09:22 PM: INFO: Current google-chrome version is 92.0.4515
+18/08/21 08:09:22 PM: INFO: Get LATEST driver version for 92.0.4515
+18/08/21 08:09:22 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+18/08/21 08:09:26 PM: INFO: *************** Test_001_Login started ****************
+18/08/21 08:09:26 PM: INFO: *************** test_loginPageTitle started ****************
+18/08/21 08:09:30 PM: INFO: *************** test_loginPageTitle passed ****************
+18/08/21 08:09:30 PM: INFO: 
+
+18/08/21 08:09:30 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:09:30 PM: INFO: Current google-chrome version is 92.0.4515
+18/08/21 08:09:30 PM: INFO: Get LATEST driver version for 92.0.4515
+18/08/21 08:09:31 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+18/08/21 08:16:52 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:16:53 PM: INFO: There is no [win64] edgedriver for browser  in cache
+18/08/21 08:16:53 PM: INFO: Trying to download new driver from https://msedgedriver.azureedge.net/92.0.902.73/edgedriver_win64.zip
+18/08/21 08:17:05 PM: INFO: Driver has been saved in cache [C:\Users\kjoshi31\.wdm\drivers\edgedriver\win64\92.0.902.73]
+18/08/21 08:17:13 PM: INFO: *************** Test_001_Login started ****************
+18/08/21 08:17:13 PM: INFO: *************** test_loginPageTitle started ****************
+18/08/21 08:17:17 PM: INFO: *************** test_loginPageTitle passed ****************
+18/08/21 08:17:17 PM: INFO: ====== WebDriver manager ======
+18/08/21 08:17:18 PM: INFO: Driver [C:\Users\kjoshi31\.wdm\drivers\edgedriver\win64\92.0.902.73\msedgedriver.exe] found in cache
+18/08/21 08:17:22 PM: INFO: *************** test_login started ****************
+18/08/21 08:18:08 PM: INFO: *************** test_login passed ****************

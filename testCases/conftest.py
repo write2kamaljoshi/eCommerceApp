@@ -1,20 +1,24 @@
 from selenium import webdriver
 import pytest
-
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import IEDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 @pytest.fixture()
 def setup(browser): # passing the browser name to setup method
     if browser == 'ie':
-        driver = webdriver.Ie()
+        driver = webdriver.Ie(IEDriverManager().install())
         print("Launching Internet Explorer Browser.........")
     elif browser == 'firefox':
-        driver = webdriver.Firefox()
+        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
         print("Launching Firefox Browser.........")
     elif browser == 'edge':
-        driver = webdriver.Edge("msedgedriver.exe")
+        # driver = webdriver.Edge("msedgedriver.exe")
+        driver = webdriver.Edge(EdgeChromiumDriverManager().install())
         print("Launching Edge Browser.........")
     else:
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         print("Launching Chrome Browser.........")
     return driver
 
